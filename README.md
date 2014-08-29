@@ -1,11 +1,15 @@
 Baseball Registration and Draft
 ===============
 
-Spreadsheet resources to assist with youth baseball registration and drafting.
+Spreadsheet resources to help with youth baseball registration and drafting.
 
 ##Spreadsheet (*Mac OS X Numbers 3.2.2*)
 
 This project contains a spreadsheet created with Mac OS X Numbers. The spreadsheet contains sheets to assist with registration, creating a list of players eligible for the draft and then conducting the draft.
+
+As a Player Agent for a local youth baseball league, I wanted an easier way to track registrations for the purposes of who is eligible for the draft as well as track who was chosen and who remains during the draft itself. The sheets available in this spreadsheet will help you with that.
+
+If you find bugs or have feature requests, please create an [issue](https://github.com/sorens/baseball-draft/issues).
 
 ###LICENSE
 
