@@ -2,7 +2,9 @@
 
 Spreadsheet resources to help with youth baseball registration and drafting.
 
-## Spreadsheet (*Mac OS X Numbers 3.2.2*)
+## Spreadsheet 
+
+This project uses Mac OS X Numbers `version 11.2 (7032.0.145)`
 
 This project contains a spreadsheet created with Mac OS X Numbers. The spreadsheet contains sheets to assist with registration, creating a list of players eligible for the draft and then conducting the draft.
 
